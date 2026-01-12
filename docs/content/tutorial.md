@@ -57,7 +57,7 @@ pygeometa metadata generate path/to/file.yml --schema=iso19139 --output=some_fil
 pygeometa metadata generate path/to/file.yml --schema_local=/path/to/my-schema --output=some_file.xml  # to file
 
 # validate an MCF document
-pygeometa validate path/to/file.yml
+pygeometa metadata validate path/to/file.yml
 
 # import a metadata document to MCF
 pygeometa metadata import path/to/file.xml --schema=iso19139
