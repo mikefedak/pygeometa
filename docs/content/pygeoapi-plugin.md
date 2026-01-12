@@ -11,7 +11,7 @@ To integrate this plugin in pygeoapi:
 
 - ensure pygeometa is installed into the pygeoapi deployment environment
 
-- add the processes to the pygeoapi configuration as follows:
+- add the processes to the pygeoapi configuration (under resources) as follows:
 
 ```yaml
 
